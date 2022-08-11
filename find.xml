@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\FruitsVSJunks\Scripts\Game\Controllers\CameraFollowController.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\FruitsVSJunks\Scripts\Game\Controllers\CameraFollowController.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\FruitsVSJunks\Scripts\Game\Controllers\CameraFollowController.cs'" />
+    <option name="customScope" value="File '…\Assets\FruitsVSJunks\Scripts\Character\PlayableCharacterComponent.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\FruitsVSJunks\Scripts\Character\PlayableCharacterComponent.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\FruitsVSJunks\Scripts\Character\PlayableCharacterComponent.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
